@@ -1,0 +1,53 @@
+header {
+    background-color: gray;
+    height: 25px;
+    text-align: left;
+    padding-top: 12px;
+    font-size: 12px;
+    
+}
+
+body {
+    font-family:arial, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: white;
+    margin: 0px;
+    padding: 0;
+}
+
+img { 
+    min-width: 250px;
+    max-width: 100%; 
+    height: auto;
+    display: flex; 
+}
+
+h1 {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 24px;
+    color: blue;
+    background-color: white;
+    margin: 0;
+    padding-left: 25px;
+}
+
+#footer {
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: fixed;
+    width: 100%;
+}
+#search-bar {
+    width: 80%;
+    border: gray;
+    border-width: 1px;
+    padding: 0;
+    align-content: center;
+}
+
+#fat-ass {
+    height: 25%;
+    background-color: indigo;
+}
